@@ -1,2 +1,2 @@
-# stylier_google_map
+# styliser_google_map
 stylier google map
