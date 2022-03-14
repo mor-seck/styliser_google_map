@@ -1,2 +1,2 @@
 # styliser_google_map
-stylier google map
+styliser google map
